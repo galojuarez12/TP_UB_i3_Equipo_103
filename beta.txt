@@ -1,0 +1,39 @@
+Matias Gomez Paratcha 
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : fibertel.com.ar
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::a5cd:538d:cc8b:c76c%5
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal mbrica Local Area Connection* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Local Area Connection* 12:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica WiFi:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:40:42:b7bc:35fd:ecbc:bbd0:a23c
+   Direcci¢n IPv6 temporal. . . . . . : 2800:40:42:b7bc:891f:e22b:8e9d:faba
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::626:24f6:c23e:3c4a%4
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.5
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::1%4
+                                       192.168.1.1
+Sun Apr 26 11:47:38     2026
