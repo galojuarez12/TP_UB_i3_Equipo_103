@@ -22,3 +22,15 @@ git merge Apollonio
 git add .
 git commit -m "Merge rama Apollonio"
 git push origin master
+
+Respuesta Alfa:
+g-Los comandos que hice en el punto 8 fueron:
+git fetch
+git pull
+git switch Juarez (fijarse que diga Juarez entre paréntesis para saber que estas en la rama)
+echo "Matias Gomez Paratcha " >> beta.txt
+ipconfig >> beta.txt
+date >> beta.txt
+git add beta.txt
+git commit -m "Agrego nombre, output de ipconfig y hora al archivo beta.txt"
+git push origin Juarez
