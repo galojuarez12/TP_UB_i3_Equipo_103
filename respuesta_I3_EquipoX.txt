@@ -34,3 +34,26 @@ date >> beta.txt
 git add beta.txt
 git commit -m "Agrego nombre, output de ipconfig y hora al archivo beta.txt"
 git push origin Juarez
+
+Respuesta Gamma:
+d) No, cada rama solo tiene sus propios cambios. Los datos se actualizan y unifican únicamente en la rama MASTER después de que BETA realiza el merge.
+
+e) El mayor problema es gestionar los conflictos de contenido. El encargado de hacer el merge (BETA) debe estar muy atento para revisar que los cambios de todos se integren correctamente y no se pisen entre sí al unir las ramas.
+
+f) Los comandos fueron:
+
+git fetch --all
+
+git switch Juarez
+
+echo "Abril Vera" >> beta.txt
+
+ipconfig >> beta.txt
+
+date >> beta.txt
+
+git add beta.txt
+
+git commit -m "GAMMA: Agrego mis datos"
+
+git push origin Juarez
