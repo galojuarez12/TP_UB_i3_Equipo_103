@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-Abril Vera - IP: 192.168.1.10 - 19:20hs Matias Gomez Paratcha 192.168.56.1 19:34
-Axel Galo Romero Juarez   192.168.1.9 17:17
-
-=======
-Sergio Apollonio 192.168.0.48 19:44 Matias Gomez Paratcha 192.168.56.1 19:59
-Axel Galo Romero Juarez 192.168.1.9 17:25
->>>>>>> Apollonio
