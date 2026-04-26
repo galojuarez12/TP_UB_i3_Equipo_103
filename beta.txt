@@ -1,56 +1,55 @@
-Matias Gomez Paratcha 
-
-Configuraci¢n IP de Windows
+Abril Romina Vera
+ConfiguraciÂ¢n IP de Windows
 
 
 Adaptador de Ethernet Ethernet:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS espec¡fico para la conexi¢n. . : fibertel.com.ar
+   Sufijo DNS especÂ¡fico para la conexiÂ¢n. . : fibertel.com.ar
 
 Adaptador de Ethernet Ethernet 2:
 
-   Sufijo DNS espec¡fico para la conexi¢n. . : 
-   V¡nculo: direcci¢n IPv6 local. . . : fe80::a5cd:538d:cc8b:c76c%5
-   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
-   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Sufijo DNS especÂ¡fico para la conexiÂ¢n. . : 
+   VÂ¡nculo: direcciÂ¢n IPv6 local. . . : fe80::a5cd:538d:cc8b:c76c%5
+   DirecciÂ¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   MÂ scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 
 
-Adaptador de LAN inal mbrica Local Area Connection* 1:
+Adaptador de LAN inalÂ mbrica Local Area Connection* 1:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Sufijo DNS especÂ¡fico para la conexiÂ¢n. . : 
 
-Adaptador de LAN inal mbrica Local Area Connection* 12:
+Adaptador de LAN inalÂ mbrica Local Area Connection* 12:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Sufijo DNS especÂ¡fico para la conexiÂ¢n. . : 
 
-Adaptador de LAN inal mbrica WiFi:
+Adaptador de LAN inalÂ mbrica WiFi:
 
-   Sufijo DNS espec¡fico para la conexi¢n. . : 
-   Direcci¢n IPv6 . . . . . . . . . . : 2800:40:42:b7bc:35fd:ecbc:bbd0:a23c
-   Direcci¢n IPv6 temporal. . . . . . : 2800:40:42:b7bc:891f:e22b:8e9d:faba
-   V¡nculo: direcci¢n IPv6 local. . . : fe80::626:24f6:c23e:3c4a%4
-   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.5
-   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Sufijo DNS especÂ¡fico para la conexiÂ¢n. . : 
+   DirecciÂ¢n IPv6 . . . . . . . . . . : 2800:40:42:b7bc:35fd:ecbc:bbd0:a23c
+   DirecciÂ¢n IPv6 temporal. . . . . . : 2800:40:42:b7bc:891f:e22b:8e9d:faba
+   VÂ¡nculo: direcciÂ¢n IPv6 local. . . : fe80::626:24f6:c23e:3c4a%4
+   DirecciÂ¢n IPv4. . . . . . . . . . . . . . : 192.168.1.5
+   MÂ scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : fe80::1%4
                                        192.168.1.1
 Sun Apr 26 11:47:38     2026
 Matias Gomez Paratcha 
 
-Configuraci¢n IP de Windows
+ConfiguraciÂ¢n IP de Windows
 
 
 Adaptador de Ethernet Ethernet:
 
-   Sufijo DNS espec¡fico para la conexi¢n. . : home
-   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:5fe:403:b2b0:ad3b:c34e:f859
-   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:5fe:403:b599:6f0b:4730:2dd4
-   Direcci¢n IPv6 temporal. . . . . . : 2800:810:5fe:403:70f7:312f:d097:8dab
-   V¡nculo: direcci¢n IPv6 local. . . : fe80::242e:9458:9327:2ad6%11
-   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.14
-   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Sufijo DNS especÂ¡fico para la conexiÂ¢n. . : home
+   DirecciÂ¢n IPv6 . . . . . . . . . . : 2800:810:5fe:403:b2b0:ad3b:c34e:f859
+   DirecciÂ¢n IPv6 . . . . . . . . . . : 2800:810:5fe:403:b599:6f0b:4730:2dd4
+   DirecciÂ¢n IPv6 temporal. . . . . . : 2800:810:5fe:403:70f7:312f:d097:8dab
+   VÂ¡nculo: direcciÂ¢n IPv6 local. . . : fe80::242e:9458:9327:2ad6%11
+   DirecciÂ¢n IPv4. . . . . . . . . . . . . . : 192.168.0.14
+   MÂ scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : fe80::3aa6:59ff:fec8:31d7%11
                                        192.168.0.1
 Sun Apr 26 13:38:44     2026
