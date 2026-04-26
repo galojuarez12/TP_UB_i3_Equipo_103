@@ -37,3 +37,20 @@ Adaptador de LAN inal mbrica WiFi:
    Puerta de enlace predeterminada . . . . . : fe80::1%4
                                        192.168.1.1
 Sun Apr 26 11:47:38     2026
+Matias Gomez Paratcha 
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : home
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:5fe:403:b2b0:ad3b:c34e:f859
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:5fe:403:b599:6f0b:4730:2dd4
+   Direcci¢n IPv6 temporal. . . . . . : 2800:810:5fe:403:70f7:312f:d097:8dab
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::242e:9458:9327:2ad6%11
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.14
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::3aa6:59ff:fec8:31d7%11
+                                       192.168.0.1
+Sun Apr 26 13:38:44     2026
